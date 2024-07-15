@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alura Flix
 
 Alura Flix es una aplicación de React que permite gestionar una colección de videos categorizados. Los videos pueden ser añadidos, editados y eliminados a través de una interfaz amigable.
@@ -121,3 +122,6 @@ PUT /videos/:id
 DELETE /videos/:id
 ```
 
+=======
+# AluraFlix
+>>>>>>> 29697ca8457dc9c0ed12f4662a00a95c0c205bb4
